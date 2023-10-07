@@ -1,17 +1,15 @@
 [
 	{
-		"name": "Phasers",
+		"name": "mayan rebel",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
+		"uniqueTo": "Yucatan",
+		"replaces": "Musketman",
+		"movement": 1,
+		"strength": 80,
 		"rangedStrength": 36,
 		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
+		"cost": 50,
+		"requiredTech": "Gunpowder",
 		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
 	}
 ]
